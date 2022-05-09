@@ -1,12 +1,16 @@
 ## Discrete Fourier Transform Java program
 
 I would like to introduce you to a simple program for computed the Discrete Fourier Transform. The program is based
-on a naive algorithm from a simple linear function ax + by = c. The program allows you to generate 0 to N - 1 elements
-with different transform values (depending on the input parameter K ∈ N - 1).
+on a naive algorithm from a simple linear function `ax + by = c`. The program allows you to generate `0` to `N - 1` elements
+with different transform values (depending on the input parameter `K ∈ N - 1`).
 
 The program implements the formula:
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Milosz08/Java_Discrete_Fourier_Transform/master/img/equation.png" width="100">
+</div>
 
+<hr>
 
 ### About
 The input and output of data to and from the program is done using the command line. An interface has been implemented
