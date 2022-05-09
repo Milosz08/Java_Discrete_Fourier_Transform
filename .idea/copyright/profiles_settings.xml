@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="Gnu">
+    <module2copyright>
+      <element module="All" copyright="Gnu" />
+    </module2copyright>
+  </settings>
+</component>
