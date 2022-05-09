@@ -7,7 +7,7 @@ with different transform values (depending on the input parameter `K ∈ N - 1`)
 The program implements the formula:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Milosz08/Java_Discrete_Fourier_Transform/master/img/equation.png" width="100">
+  <img src="https://raw.githubusercontent.com/Milosz08/Java_Discrete_Fourier_Transform/master/img/equationWhite.png" width="600">
 </div>
 
 <hr>
@@ -22,6 +22,7 @@ graphical environment.
 
 ```
 $ javac DFT_Algorithm.java
+$ java DFT_Algorithm.java
 ```
 
 or compile using Eclipse or Intelij Idea.
