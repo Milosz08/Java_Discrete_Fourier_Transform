@@ -6,7 +6,11 @@ with different transform values (depending on the input parameter `K ∈ N - 1`)
 
 The program implements the formula:
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Milosz08/Java_Discrete_Fourier_Transform/master/img/equation.png" width="100">
+</div>
 
+<hr>
 
 ### About
 The input and output of data to and from the program is done using the command line. An interface has been implemented
