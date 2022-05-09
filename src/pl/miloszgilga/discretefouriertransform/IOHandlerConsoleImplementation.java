@@ -18,8 +18,8 @@
 
 package pl.miloszgilga.discretefouriertransform;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
+import java.text.DecimalFormat;
 import java.util.InputMismatchException;
 
 

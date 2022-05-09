@@ -2,7 +2,7 @@
  * Copyright (c) 2022 by MILOSZ GILGA <https://miloszgilga.pl>
  *
  * File name: DiscreteFourierTransform.java
- * Last modified: 09/05/2022, 14:34
+ * Last modified: 09/05/2022, 15:39
  * Project name: fourier-transform
  *
  * Licensed under the GNU GPL 3.0 license; you may not use this file except in compliance with the License.
@@ -17,6 +17,7 @@
  */
 
 package pl.miloszgilga.discretefouriertransform;
+
 
 public class DiscreteFourierTransform {
 

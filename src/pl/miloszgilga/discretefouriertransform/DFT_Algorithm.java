@@ -18,6 +18,7 @@
 
 package pl.miloszgilga.discretefouriertransform;
 
+
 public class DFT_Algorithm {
 
     public static final int N = 10;
