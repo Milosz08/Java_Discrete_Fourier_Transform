@@ -22,6 +22,7 @@ graphical environment.
 
 ```
 $ javac DFT_Algorithm.java
+$ java DFT_Algorithm.java
 ```
 
 or compile using Eclipse or Intelij Idea.
