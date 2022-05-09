@@ -18,7 +18,7 @@
 
 package pl.miloszgilga.discretefouriertransform;
 
-public class Main {
+public class DFT_Algorithm {
 
     public static final int N = 10;
 
@@ -26,5 +26,4 @@ public class Main {
         DiscreteFourierTransform transform = new DiscreteFourierTransform(N, new IOHandlerConsoleImplementation());
         transform.computedCoefficeints();
     }
-
 }
